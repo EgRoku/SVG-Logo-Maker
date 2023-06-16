@@ -3,5 +3,28 @@
     "i": "^0.3.7",
     "inquirer": "^8.2.4",
     "jest": "^29.5.0"
-  }
+  },
+  "name": "svglogo",
+  "description": "* [Screen-Recording](#screen-recording)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgRoku/SVG-Logo-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EgRoku/SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/EgRoku/SVG-Logo-Maker#readme"
 }
